@@ -1,0 +1,6 @@
+{
+  "name": "Digital Creator Lab",
+  "description": "Vetrina digitale di offerte Amazon affiliate, applicazioni gratuite, idee e risorse digitali con pannello di amministrazione e supporto bilingue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
